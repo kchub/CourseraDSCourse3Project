@@ -1,6 +1,3 @@
-# CourseraDSCourse3Project
-Contains files used in the Getting and Cleaning Data course of the Johns Hopkins Data Science Specialization offered through Coursera
-
 # Getting and Cleaning Data Project
 
 ## Project Overview
